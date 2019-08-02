@@ -120,6 +120,14 @@
     <ClCompile Include="BinaryTree2.cpp" />
     <ClCompile Include="CriticalPath.cpp" />
     <ClCompile Include="HuffmanTree.cpp" />
+    <ClCompile Include="Kruskal.cpp" />
+    <ClCompile Include="OrientedGraph.cpp" />
+    <ClCompile Include="TrieTree.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Link.h" />
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="Stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
