@@ -395,7 +395,7 @@ void BiTree<DataType>::Image()
 	}
 }
 
-int main()
+int BinaryTree_run()
 {
 	cout << "构造方式形如：1 2 3 # # 4 # # 5 6 # # 7 # #" << endl << "请构造二叉树：" << endl;
 	BiTree<char> Tree;
